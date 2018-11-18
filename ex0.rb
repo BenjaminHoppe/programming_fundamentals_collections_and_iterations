@@ -1,6 +1,4 @@
-
-# note: as of right now I have completed exercises 0 - 10.2 
-# This note will be updated as I complete the rest.
+# Completed (finally)
 
 
 # Array's
@@ -299,3 +297,4 @@ puts grocery_list
 puts "Cool, you're done exercise 9 :)"
 
 # Exercise 10
+# IN NEW DOC
