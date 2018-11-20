@@ -7,22 +7,20 @@ students = {
   :cohort3 => 22
 }
 
-# 10.2 not done (yet)
+def display_list(stu)
+  stu.each do |student|
+    p "#{student}"
+  end
+end
 
-# def display_list(hash)
-#   students.each do | thing, other_thing |
-#     puts "#{:symbol}: #{int}"
-#   end
-# end
-#
-# display_list(students)
-#
-#
-# goal = each item in hash to
-# display like a list with a semicolen inbetween
-# the key and value
-#
-# students.map do | thing |
+display_list(students)
+
+
+goal = each item in hash to
+display like a list with a semicolen inbetween
+the key and value
+
+students.map do | thing |
 
 
 students[:cohort4] = 43
